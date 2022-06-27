@@ -8,4 +8,4 @@
 
 ## 4-describe the process of evaluating your project and the results of your evaluation
 
-## 5- clearly describe how any third-party resources were used in the creation of your project.
+## 5- the third-party resources of my project
