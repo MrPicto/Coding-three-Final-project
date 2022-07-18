@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2022/4/19 20:30
-# @Author  : Tang
-# @File    : models.py.py
-# @Software: PyCharm
-# 这是模型代码
+
 import torch.nn as nn
 import torch
 
