@@ -3,8 +3,12 @@
 The model I used is disco GAN, a generative adversarial network model for style migration between two images. The code contains four files. x-train and y-train are used to train the model. x-test and y-test are used to train the model. discogan.py is used to train the code. model.py is mainly the model structure. test.py is used to test the model code. dataset.py is used to build the dataset.
 ![IMG_3158](https://user-images.githubusercontent.com/92038037/175996174-4a2ba524-61eb-459a-b251-96762bf7f48b.JPG)
 
-# 2-link to at least one video documenting your work
-[video.mp4.zip](https://github.com/MrPicto/Coding-three-Final-project/files/8994203/video.mp4.zip)
+# 2-link 
+
+https://user-images.githubusercontent.com/92038037/179619542-0e0072dc-06d0-4c71-85e7-908d1ab2373c.mp4
+
+to at least one video documenting your work
+
 
 # 3-outline the design and development processes
 
