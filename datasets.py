@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2022/4/19 20:28
-# @Author  : Tang
-# @File    : datasets.py.py
-# @Software: PyCharm
-# 这是构建数据集代码
+
 import glob
 import os
 
