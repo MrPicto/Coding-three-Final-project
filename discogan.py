@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2022/4/19 20:29
-# @Author  : Tang
-# @File    : discogan.py.py
-# @Software: PyCharm
-# 这是主文件
+
 import argparse
 import itertools
 import sys
