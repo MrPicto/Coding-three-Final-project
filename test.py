@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2022/5/12 17:03
-# @Author  : Tang
-# @File    : test.py.py
-# @Software: PyCharm
-# 这是测试代码
+
 import argparse
 from torchvision.utils import save_image
 from torch.utils.data import DataLoader
