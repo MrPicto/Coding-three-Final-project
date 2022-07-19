@@ -1,6 +1,7 @@
 
 # 1-describe and contextualise your work
 The model I used is disco GAN, a generative adversarial network model for style migration between two images. The code contains four files. x-train and y-train are used to train the model. x-test and y-test are used to train the model. discogan.py is used to train the code. model.py is mainly the model structure. test.py is used to test the model code. dataset.py is used to build the dataset.
+
 Here is my reference link: https://github.com/SKTBrain/DiscoGAN
 
 ![IMG_3158](https://user-images.githubusercontent.com/92038037/175996174-4a2ba524-61eb-459a-b251-96762bf7f48b.JPG)
